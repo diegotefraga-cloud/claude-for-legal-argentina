@@ -10,9 +10,17 @@ El repositorio original cubre 12 plugins y más de 80 agentes. Está construido 
 
 ```
 argentina/
-  CLAUDE.md              # Perfil de práctica argentino (reemplaza al original)
-  red-flags-contratos.md # Lista de alertas para revisión de contratos
-  fuentes.md             # Conectores a bases de datos normativas locales
+  CLAUDE.md                   # Perfil de práctica general (reemplaza al original)
+  administrativo-CLAUDE.md    # Perfil para derecho administrativo
+  civil-CLAUDE.md             # Perfil para derecho civil (CCCN)
+  concursos-CLAUDE.md         # Perfil para concursos y quiebras (LCQ)
+  familia-CLAUDE.md           # Perfil para derecho de familia
+  laboral-CLAUDE.md           # Perfil para derecho del trabajo (LCT)
+  penal-CLAUDE.md             # Perfil para derecho penal
+  societario-CLAUDE.md        # Perfil para derecho societario (LGS)
+  tributario-CLAUDE.md        # Perfil para derecho tributario
+  red-flags-contratos.md      # Lista de alertas para revisión de contratos
+  fuentes.md                  # Conectores a bases de datos normativas locales
 ```
 
 Los plugins originales quedan intactos. Todo el material argentino vive en la carpeta `argentina/`.
